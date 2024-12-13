@@ -47,4 +47,13 @@ Today, I built the **Zomota App Order Full Analysis Feature Engineering Project*
 - Develop an interactive **dashboard** to visualize the insights and predictions in real-time.
 - Test the model on larger datasets and real-time data for better scalability.
 
+- ## 👨‍💻 Developer Information
+**Created by **Abhishek kumar** 
+**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+
+![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
+
 ---
